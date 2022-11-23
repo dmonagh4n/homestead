@@ -1,2 +1,3 @@
-# homestead
-Homestead Repo
+# Homestead Automation
+
+:house_with_garden: 
